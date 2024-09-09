@@ -219,6 +219,5 @@ Os arquivos de c&oacute;digo devem ter um cabe&ccedil;alho de coment&aacute;rio 
 </li>
 </ul>
   <br>
-  </script>
 </body>
 </html>
