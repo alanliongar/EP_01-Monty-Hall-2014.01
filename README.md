@@ -1,9 +1,10 @@
 # EP_01-Monty-Hall - 18/04/2014
 <html>
 <head>
-  EP01: Problema do Silvio Santos
+  <h2>EP01: Problema do Silvio Santos</h2>
 </head>
 <body>
+<img src="https://github.com/user-attachments/assets/952673c5-9dcb-4e29-93b4-85f9a6cb42f6" width="500">
 
 <center><h2>Introdu&ccedil;&atilde;o</h2></center>
 
